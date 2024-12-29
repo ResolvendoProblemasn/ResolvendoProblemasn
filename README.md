@@ -18,7 +18,7 @@
 
 
 ## 📈 Estatísticas
-![Anderson C. GitHub stats](https://github-readme-stats.vercel.app/api?username=resolvendoproblemas&show_icons=true&theme=tokyonight)
+![Anderson C. GitHub stats](https://github-readme-stats.vercel.app/api?username=resolvendoproblemasn&show_icons=true&theme=tokyonight)
 
   ### 🚀 Linguagens e Tecnologias 
   -  Me pergunte sobre Power bi, Excel.
