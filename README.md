@@ -11,7 +11,7 @@
   <a href="https://www.instagram.com/resolvendo_problemasn/profilecard/?igsh=dm53dHRhZm82bXlj" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
   <a href = "mailto:resolvendoproblemans@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/andersoncerqueirass" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://sites.google.com/view/anderson-cerqueira/p%C3%A1gina-inicial" target="_blank"><img src= "https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a> 
+  <a href="https://sites.google.com/view/anderson-cerqueira/pagina-inicial" target="_blank"><img src= "https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a> 
 
   </div>
 
